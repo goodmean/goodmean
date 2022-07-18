@@ -6,11 +6,7 @@
 <img src="https://img.shields.io/badge/ABOUT ME(click!)-FFE5E5?style=for-the-badge"/>
   </a>
 <p align='center'>
-  I'm front-end developer.
-  </br>
-  I graduated from the Department of Computer Science.
-  </br>
-I'm interested in web development and cross-platform development,</br> and I try to write clean code.😆
+
  <br/>
  <br/>
  <br/>
