@@ -1,14 +1,37 @@
-![header](https://capsule-render.vercel.app/api?type=$slice&color=auto&height=$200&section=header&text=$Hello World!&fontSize=$50&animation=$twinkling)
+![header](https://capsule-render.vercel.app/api?type=$waving&color=auto&height=$200&section=header&text=$Hello World!&fontSize=$50&animation=$twinkling)
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/${goodmean}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${goodmean}&layout=compact&show_icons=${ture}&show_owner=${ture}&hide_title=${ture}&theme=${nord}&hide=${ture}" />
+<h3 align='center'>Hello_World_🙋‍♀️</h3>
+<p align='center'>
+  <a href="https://www.notion.so/woinnnnng/About-Me-ca97e34d2dbc42e68a3b7eaa4d1160cd">
+<img src="https://img.shields.io/badge/ABOUT ME(click!)-FFE5E5?style=for-the-badge"/>
   </a>
-</p>
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/${goodmean}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${깃닉네임}&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=${깃아이콘표시}&include_all_commits=${올해말고 전체년도 커밋표기}&theme=${nord}" />
-  </a>
-</p>
+<p align='center'>
+  I'm front-end developer.
+  </br>
+  I graduated from the Department of Computer Science.
+  </br>
+I'm interested in web development and cross-platform development,</br> and I try to write clean code.😆
+ <br/>
+ <br/>
+ <br/>
+
+<h3 align='center'>👩‍💻 My Tech</h3>
+<p align='center'>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000000"/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=000000"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/>
+
+<br/>
+<br/>
+<br/>
+<h3 align='center'> My Github</h3>
+<div align='center'>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodmean&hide=GLSL,Rust,Go&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+![goodmean's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodmean&show_icons=true&theme=buefy&hide=stars,contribs&include_all_commits=true)
+
+</div>
