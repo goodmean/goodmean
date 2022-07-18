@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=${slice}&color=auto&height=${200}&section=header&text=${Hello World!}&fontSize=${50}&animation=${twinkling})
+![header](https://capsule-render.vercel.app/api?type=$slice&color=auto&height=$200&section=header&text=$Hello World!&fontSize=$50&animation=$twinkling)
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
